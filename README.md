@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Hi there, I’m Mauro Zegarra Benza
+I'm a **Software Engineer** currently studying at Centennial College in Toronto, Canada. Passionate about technology, I focus on creating efficient, scalable solutions and bring a combination of technical skills and creative problem-solving to my work. My projects reflect a commitment to high-quality code and innovation.
 
-<!--
-**mauro802/mauro802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💼 Skills & Technologies
+- **Languages & Frameworks & Libraries:** HTML, CSS, JavaScript, TypeScript, SQL, C#, Java, Python, React.js, Next.js, Node.js, Express
+- **Databases:** MySQL, Oracle Database, MongoDB
+- **Tools & Platforms:** Git, GitHub, Tailwind, WordPress, cPanel, Adobe Illustrator, Adobe Photoshop, Figma, WCAG 2.1, Miro, Mailchimp, Facebook Ads.
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning
+I'm actively expanding my knowledge in **AI integration**, **data science**, and **full-stack development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Get in Touch
+Connect with me for collaboration or questions:
+- **Email:** [info@maurozegarra.com](mailto:info@maurozegarra.com)
+- **LinkedIn:** [linkedin.com/in/mauro-zegarra](https://www.linkedin.com/in/mauro-zegarra/)
